@@ -1,5 +1,5 @@
 
-# DevOps Days: A Poetic Pilgrimage
+# DevOps Tales: A Poetic Pilgrimage
 
 From the terminal, pop in:
 
